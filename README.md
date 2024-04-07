@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hi! My name is John Hang Rai<br>Full-Stack Developer based in Kathmandu - Nepal</h2>
+<h1>Hi! My name is John Hang Rai<br>Full-Stack Developer based in Kathmandu - Nepal</h1>
 
 
 ## 🌐 My Socials:
