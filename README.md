@@ -1,6 +1,6 @@
 ###
 
-<img align="center" height="300" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdOFupKTmHgGahx-QrwFu1zHLbhbzGg6L0Qy4DfmqiQ&s"  />
+<img align="center" height="250" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGdOFupKTmHgGahx-QrwFu1zHLbhbzGg6L0Qy4DfmqiQ&s"  />
 
 ###
 
