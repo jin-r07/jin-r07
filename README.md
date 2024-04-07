@@ -1,6 +1,5 @@
 <h1 align="center">Hi! My name is John Hang Rai<br>Full-Stack Developer based in Kathmandu - Nepal</h1>
-
-
+[![](https://visitcount.itsvg.in/api?id=jin-r07&icon=2&color=6)](https://visitcount.itsvg.in)
 ## 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jin_r07) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-hang-rai-b844a7266) 
@@ -18,8 +17,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jin-r07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=jin-r07&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
