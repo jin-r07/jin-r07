@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is John Hang Rai and I'm a Full-Stack Developer based in Kathmandu - Nepal</h2>
+<h2 align="center">Hi 👋! My name is John Hang Rai</h2>
+<h2 align="center">Full-Stack Developer based in Kathmandu - Nepal</h2>
 
 ###
 
