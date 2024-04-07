@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm John Hang Rai</h1>
+<h1 align="center">Hi, I'm John Hang Rai</h1>
 <h3 align="center">Full-Stack Developer based in Kathmandu - Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=0e75b6&style=flat" alt="jin-r07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jin-r07" alt="jin-r07" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.johnhangrai.com.np/](https://www.johnhangrai.com.np/)
+- All of my projects are available at [https://www.johnhangrai.com.np/](https://www.johnhangrai.com.np/)
 
-- 📫 How to reach me **rai.john0707@gmail.com**
+- How to reach me **rai.john0707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jin-r07&show_icons=true&locale=en&layout=compact" alt="jin-r07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jin-r07&show_icons=true&locale=en" alt="jin-r07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jin-r07&" alt="jin-r07" /></p>
