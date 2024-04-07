@@ -1,6 +1,6 @@
 ###
 
-<img align="center" height="200" src="https://media1.tenor.com/m/f4eKzaPOZUYAAAAd/rz-ds-project.gif"  />
+<img align="center" height="200" style="background: cover;" src="https://media1.tenor.com/m/f4eKzaPOZUYAAAAd/rz-ds-project.gif"  />
 
 ###
 
