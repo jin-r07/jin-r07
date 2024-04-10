@@ -1,17 +1,11 @@
-<h1 align="left">Hi 👋! My name is John Hang Rai and I'm a Full-Stack Developer based in Kathmandu - Nepal.</h1>
+<h1 align="center">Hi, I'm John Hang Rai</h1>
+<h3 align="center">Full-Stack Developer based in Kathmandu - Nepal</h3>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jin-r07" alt="jin-r07" /></a> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- All of my projects are available at [https://www.johnhangrai.com.np/](https://www.johnhangrai.com.np/)
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+- How to reach me **rai.john0707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jin-r07&show_icons=true&locale=en&layout=compact" alt="jin-r07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jin-r07&show_icons=true&locale=en" alt="jin-r07" /></p>
-
-###
