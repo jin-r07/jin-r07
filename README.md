@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name is John Hang Rai<br>Full-Stack Developer based in Kathmandu - Nepal</h1>
+<h1 align="center">Hi!👋 My name is John Hang Rai<br>Full-Stack Developer based in Kathmandu - Nepal</h1>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jin_r07) 
