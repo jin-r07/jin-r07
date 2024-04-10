@@ -5,6 +5,8 @@
 
 - How to reach me: **rai.john0707@gmail.com**
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/john0707rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="john0707rai" height="30" width="40" /></a>
@@ -20,10 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jin-r07&show_icons=true&locale=en&layout=compact" alt="jin-r07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jin-r07&show_icons=true&locale=en" alt="jin-r07" /></p>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
