@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm John Hang Rai</h1>
-<h3 align="center">Full-Stack Developer based in Kathmandu - Nepal</h3>
+<h1 align="center">Hi, I'm John Hang Rai,</h1>
+<h2 align="center">Full-Stack Developer based in Kathmandu - Nepal.</h2>
 
-- My Portfolio [https://www.johnhangrai.com.np/](https://www.johnhangrai.com.np/)
+- My Portfolio: [https://www.johnhangrai.com.np/](https://www.johnhangrai.com.np/)
 
-- How to reach me **rai.john0707@gmail.com**
+- How to reach me: **rai.john0707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
