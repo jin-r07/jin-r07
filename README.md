@@ -20,3 +20,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jin-r07&show_icons=true&locale=en&layout=compact" alt="jin-r07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jin-r07&show_icons=true&locale=en" alt="jin-r07" /></p>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
