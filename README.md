@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John Hang Rai,</h1>
-<h2 align="center">Full-Stack Developer based in Kathmandu - Nepal.</h2>
+<h1 align="center">Full-Stack Developer based in Kathmandu - Nepal.</h1>
 
 - My Portfolio: [https://www.johnhangrai.com.np/](https://www.johnhangrai.com.np/)
 
