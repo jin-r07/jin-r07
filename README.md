@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me **rai.john0707@gmail.com**
-- 👨‍💻 All of my projects are available at **https://www.johnhangrai.com.np**
+- 👨‍💻 My portfolio **https://www.johnhangrai.com.np**
 
 </div><h3 align="left">Connect with me:</h3>
 <div> <a href="https://twitter.com/@John0707Rai" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
