@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Hang Rai</h1>
-<h3 align="center">Full Stack Developer based in Kathmandu, Nepal.</h3>
+<h2 align="center">Full Stack Developer based in Kathmandu, Nepal.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=0e75b6&style=flat" alt="jin-r07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jin-r07&theme=discord" alt="jin-r07" /></a> </p>
