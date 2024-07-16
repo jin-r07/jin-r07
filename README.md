@@ -8,7 +8,7 @@
 - ✉️ How to reach me: **rai.john0707@gmail.com**
 - 🌐 My portfolio: **https://www.johnhangrai.com.np**
 
-</div><h3 align="left">Connect with me:</h3>
+</div><h3 align="left">Get in Touch:</h3>
 <div> <a href="https://twitter.com/@John0707Rai" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/john-hang-rai-b844a7266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:rai.john0707@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
