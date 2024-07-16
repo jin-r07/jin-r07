@@ -2,8 +2,8 @@
 <h2 align="center">Full Stack Developer based in Kathmandu, Nepal.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=0e75b6&style=flat" alt="jin-r07" /> </p>
 
-- ✉️ How to reach me: **rai.john0707@gmail.com**
-- 🌐 My portfolio: **https://www.johnhangrai.com.np**
+- ✉️ Mail: **rai.john0707@gmail.com**
+- 🌐 Portfolio: **https://www.johnhangrai.com.np**
 
 </div><h3 align="left">Get in Touch:</h3>
 <div> 
