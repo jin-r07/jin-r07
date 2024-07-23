@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=5c2d91&style=flat" alt="jin-r07" /></p>
 
 - ✉️: rai.john0707@gmail.com
-- 
+
 - 🌐: https://www.johnhangrai.com.np
 
 </div><h3 align="left">Get in Touch:</h3>
