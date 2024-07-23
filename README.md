@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Hang Rai</h1>
-<h2 align="center">Full Stack Developer based in Kathmandu, Nepal.</h2>
+<h2 align="left">Full Stack Developer based in Kathmandu, Nepal.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=5c2d91&style=flat" alt="jin-r07" /></p>
 
 - ✉️:  rai.john0707@gmail.com
