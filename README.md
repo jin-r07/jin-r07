@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John,</h1>
 <h1 align="left">a Full Stack Developer.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=99ce02&style=flat" alt="jin-r07" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=8511fa&style=flat" alt="jin-r07" /></p>
 
 - ✉️:  rai.john0707@gmail.com
 
