@@ -4,7 +4,7 @@
 
 - ✉️:  rai.john0707@gmail.com
 
-- 🌐:  www.johnhangrai.com.np
+- 🌐:  johnhangrai.com.np
 
 <h3 align="left">Get in Touch:</h3>
 
