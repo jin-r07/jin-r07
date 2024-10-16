@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm John</h1> <h2 align="center">💻 Full Stack Developer | Passionate Problem Solver</h2> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=8511fa&style=flat" alt="Profile views" /> </p>
+<h1 align="center">Hi 👋, I'm John</h1> <h2 align="center">💻 Full Stack Developer </h2> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=8511fa&style=flat" alt="Profile views" /> </p>
 
 I'm a highly motivated Full Stack Developer with a passion for building scalable web applications and dynamic user experiences. With a strong foundation in both front-end and back-end technologies, I enjoy the challenge of solving complex problems and bringing ideas to life. My expertise spans a wide range of technologies, from JavaScript frameworks like React and Next.js to server-side programming with Node.js, Java, and Spring Boot. I’m constantly learning and staying up-to-date with the latest tools and frameworks to improve my development workflow and enhance my projects.
 
-
-
-💡 Why Work with Me: I’m dedicated, detail-oriented, and love to collaborate on innovative projects.
-
-🚀 Goal: My goal is to build impactful solutions that make a difference while expanding my skill set with every project I work on.
 
 📧 Email: rai.john0707@gmail.com
 
