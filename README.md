@@ -1,6 +1,3 @@
-
-Sure! Here's an improved version of your readme with a small summary, additional details, and a more polished format:
-
 <h1 align="center">Hi 👋, I'm John</h1> <h2 align="center">💻 Full Stack Developer | Passionate Problem Solver</h2> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jin-r07&label=Profile%20views&color=8511fa&style=flat" alt="Profile views" /> </p>
 About Me
 I'm a highly motivated Full Stack Developer with a passion for building scalable web applications and dynamic user experiences. With a strong foundation in both front-end and back-end technologies, I enjoy the challenge of solving complex problems and bringing ideas to life. My expertise spans a wide range of technologies, from JavaScript frameworks like React and Next.js to server-side programming with Node.js, Java, and Spring Boot. I’m constantly learning and staying up-to-date with the latest tools and frameworks to improve my development workflow and enhance my projects.
