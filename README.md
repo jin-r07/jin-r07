@@ -7,7 +7,7 @@ I'm a highly motivated Full Stack Developer with a passion for building scalable
 
 🌐 Portfolio: www.johnhangrai.com.np
 
-<h1 align="left">Connect with Me</h1>
+<h2 align="left">Connect with Me</h2>
 <p align="left"> <a href="https://www.linkedin.com/in/john-hang-rai-b844a7266" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:rai.john0707@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /> </a> </p>
 🛠️ Technical Skills
 
